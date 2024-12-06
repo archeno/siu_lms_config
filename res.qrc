@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/application-exit.png</file>
+        <file>images/clear.png</file>
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/gray.png</file>
+        <file>images/green.png</file>
+        <file>images/red.png</file>
+        <file>images/settings.png</file>
+        <file>styles/main.qss</file>
+        <file>images/downarrow.png</file>
+        <file>images/STOP.png</file>
+        <file>images/TRA.png</file>
+        <file>images/SIU.png</file>
+        <file>images/download.png</file>
+    </qresource>
+</RCC>
